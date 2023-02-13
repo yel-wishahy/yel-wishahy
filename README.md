@@ -10,3 +10,5 @@ Welcome to Yousif's github. I am a fourth year Engineering Physics student at th
 - 🤝 I’m looking to collaborate on ... things that excite me
 - 💬 Ask me about ... robotics, aerosapce, physics, and sci-fi
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/yousif-elwishahy/) or yel.wishahy@gmail.com
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yel-wishahy&show_icons=true&theme=gotham" alt="YousifEl-Wishahy" />
