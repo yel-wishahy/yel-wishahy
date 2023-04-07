@@ -6,7 +6,7 @@ Welcome to Yousif's github. I am a fourth year Engineering Physics student at th
   - 🤖 Software for OB1, a general purpose assistant robot @ [UBCOpenRobotics](https://openrobotics.ca/)
   - 🛰️ Control systems for ALEASAT, a CubeSat @[UBC Orbit/SFU Sat ALEASAT Project](https://www.ubcorbit.com/projects)
   - 📚 Finishing my degree :) 
-- 💬 Ask me about ... robotics, aerosapce, physics, and sci-fi
+- 💬 Ask me about ... robotics, aerospace, physics, and sci-fi
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/yousif-elwishahy/) or yel.wishahy@gmail.com
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yel-wishahy&show_icons=true&theme=gotham" alt="YousifEl-Wishahy" />
