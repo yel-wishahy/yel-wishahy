@@ -8,5 +8,3 @@ Welcome to Yousif's github. I am a fourth year Engineering Physics student at th
   - 📚 Finishing my degree :) 
 - 💬 Ask me about ... robotics, aerospace, physics, and sci-fi
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/yousif-elwishahy/) or yel.wishahy@gmail.com
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yel-wishahy&show_icons=true&theme=gotham" alt="YousifEl-Wishahy" />
